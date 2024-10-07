@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* 2024 Nov-2025 Mar: GSK.ai AI/ML
+  * Latent geometry of neural networks.
+  * Supervisors: Dr. Emma Slade, Dr. Alexandra Pettet
+
 * 2023 Jul-Aug: Research Exchange
   * University of California, Los Angeles (UCLA)
   * New numerical methods for sampling. See [this paper](https://arxiv.org/abs/2308.14945).
@@ -72,5 +76,4 @@ Talks
 Others
 ======
 * Third generation scholar of the [Masason Foundation](https://masason-foundation.org/en/)
-* Reviewer for Inverse Problems and Imaging (IPI).
-* Reviewer for SIAM Journal on Imaging Sciences
+* Reviewer for Inverse Problems and Imaging (IPI), SIAM Journal on Imaging Sciences, ICLR 2025.
