@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hong Ye, and I am a 4th and final year PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31). Funded by [GSK.ai](https://gsk.ai/). I am co-supervised by [Prof. Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) and [Prof. Junqi Tang](https://junqitang.com/), and my industrial supervisor is Dr. Alexandra Pettet. I am currently looking for postdoc positions, expected graduation July 2025.
+My name is Hong Ye, and I am a Hedrick Assistant Adjunct Professsor at UCLA, specializing in Computational and Applied Mathematics, hosted by [Prof. Stanley Osher](https://www.math.ucla.edu/~sjo/). I was previously a PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31), [Prof. Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) and [Prof. Junqi Tang](https://junqitang.com/), funded by [GSK.ai](https://gsk.ai/).
 
 What do I work on?
 ======
@@ -20,8 +20,10 @@ Other tidbits
 ------
 * I was the youngest member admitted to the University of Hong Kong in 2015 (aged 11). I am also probably the youngest member (aged 13) admitted to Cambridge in recent history, but I have not verified this. I am now 21, if you are interested.
 
-* I do all the coding and 98% of the writing for my first-author papers. Feel free to use the code from any of my work, and do send me an email if you have any questions, as the codebases online are quite dirty due to scattered computational resources.
+* I do all the coding and 98% of the writing for my first-author papers. Feel free to use the code from any of my work, and do send me an email if you have any questions or want access to updated code.
 
-* I am a [Masason Foundation](https://masason-foundation.org/en/) scholar of 6 years.
+* I am an alumnus of the [Masason Foundation](https://masason-foundation.org/en/).
 
-* I also like [classical piano](https://www.youtube.com/watch?v=ievpSwyvxoE), food, badminton, and birds. I have also dabbled in fencing and small-bore rifle shooting.
+* My thesis can be found [here](https://www.repository.cam.ac.uk/items/17858c7e-bf1a-431c-b295-135027edb3f1), where I passed with no corrections. 
+
+<!-- * I also like [classical piano](https://www.youtube.com/watch?v=ievpSwyvxoE), food, badminton, and birds. I have also dabbled in fencing and small-bore rifle shooting. -->
