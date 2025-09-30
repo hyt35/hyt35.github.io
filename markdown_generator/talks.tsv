@@ -7,3 +7,5 @@ Noise-Free Sampling Algorithms via Regularized Wasserstein Proximals	Mini-sympos
 Data-driven Mirror Descent with Acceleration and Robustness	Talk	talk-gsk23	GSK.ai PhD Symposium	2023-04-18	"Stevenage, UK"								
 Deterministic Sampling with Wasserstein Proximals	Poster	poster-OT24	Workshop on Optimal Transport: From Theory to Applications	2024-03-14	"Berlin, Germany"		Poster presentation. Poster pitch can be found [here](https://hyt35.github.io/files/BRWP_poster_pitch.pdf)	/files/BRWP_poster.pdf					
 Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation	Poster	poster-MIA25	Mathematics and Image Analysis MIA’25	2025-01-14	"Paris, France"		Poster presentation.	/files/CRR_poster.pdf					
+Dataset Distillation as Optimal Quantization	Department Seminar	talk-tuberlin25	Applied Math Group Seminar	2025-07-22	"Berlin, Germany"			/files/ddoq.pdf					
+Geometry Aware Particle Swarm Sampling	Department Seminar	talk-levelset25	Level Set Meeting	2025-09-29	"UCLA"			/files/PBRWP_slides.pdf					

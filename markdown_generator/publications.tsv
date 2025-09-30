@@ -8,3 +8,5 @@ pub_date	title	venue	excerpt	published	url_slug	paper_url	arxiv
 2024-11-18	Unsupervised approaches based on optimal transport and convex analysis for inverse problems in imaging	Radon Series on Computational and Applied Mathematics		TRUE	otca-invprob	https://www.degruyter.com/document/doi/10.1515/9783111251233/html?lang=en	https://arxiv.org/abs/2311.08972	
 2024-12-13	Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation	Transactions on Machine Learning Research		TRUE	mle-regu	https://openreview.net/forum?id=375tU7Tn0S	https://arxiv.org/abs/2404.05445	
 2025-01-15	Dataset Distillation as Pushforward Optimal Quantization			FALSE	ddoq		https://arxiv.org/abs/2501.07681	
+2025-09-01	Preconditioned Regularized Wasserstein Proximal Sampling			FALSE	pbrwp		https://arxiv.org/abs/2509.01685	
+2025-09-03	From Image Denoisers to Regularizing Imaging Inverse Problems: An Overview			FALSE	pnp-overview		https://arxiv.org/abs/2509.03475	
