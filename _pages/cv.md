@@ -13,7 +13,6 @@ Education
 ======
 * PhD in Applied Mathematics, DAMTP, University of Cambridge, 2021-2025
 * MMath and BA, University of Cambridge, 2017-2021
-* (Incomplete) BEng(CompSc), University of Hong Kong, 2015-2017
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
 
 Work experience
